@@ -61,7 +61,7 @@ import java.io.*;
  * This class is derived from <em>Attribute</em> and represents a reference to
  * a <href="http://wwwipd.ira.uka.de/~pizza/gj/">GJ</a> attribute.
  * 
- * @version $Id: Signature.java,v 1.2 2006/07/05 15:22:56 ebruneton Exp $
+ * @version $Id: Signature.java,v 1.2 2006-07-05 15:22:56 ebruneton Exp $
  * @author <A HREF="mailto:markus.dahm@berlin.de">M. Dahm</A>
  * @see Attribute
  */
